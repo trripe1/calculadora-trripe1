@@ -17,7 +17,7 @@ public class Calculadora {
     }
 
     public static void main(String[] args) {
-        System.out.println("Calculadora v1.0");
+        System.out.println("Calculadora v2.0");
         System.out.println("5 + 3 = " + sumar(5, 3));
         System.out.println("5 - 3 = " + restar(5, 3));
         System.out.println("5 * 3 = " + multiplicar(5, 3));
